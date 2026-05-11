@@ -2,11 +2,11 @@
 
 I am Victor, I am currently involved in an intensive bootcamp hosted by Northcoders, where I am getting a very thorough education in C#, .NET and the OOP and TDD principles that come with it.
 
-I am passionate about sustainability, equality, and creating a better world, and because of the system we live in, finance and investment is the main way to achieve that. That is, profit drives motivation, so we need ways to make profit in a sustainable way with positive externalities. We do not **have** to live in a world where profit is evil. I am always looking for ways I can align myself with positive change in a realistic and meaningful way.
+I am passionate about sustainability, equality, and creating a better world, and because of the system we live in, finance and investment is the main way to achieve that. That is, profit drives motivation, so we need ways to make profit in a sustainable way with positive externalities. We do not **have** to live in a world where profit is bad. I am always looking for ways I can align myself with positive change in a realistic and meaningful way.
 
-Technology and programming are core tools I am learning to wield on my path. I would like to build real applications for businesses and clients, to solve real issues. I am currently working on an application which tracks sustainability-related information for businesses. It is a personal project but I believe it has market value, for the previous company I worked in paid a good amount for a SaaS which would have performed better (and indeed did) on an Excel spreadsheet.
+Technology and programming are core tools I am learning to use on my path. I aim to build real applications for businesses and clients, to solve real issues. I am currently working on an application which tracks sustainability-related information for businesses.
 
-While I'll continue to learn and teach myself, I am looking for professional experience as a developer so I can continue to grow and have an impact.
+While I'll continue to learn and teach myself, I am looking for professional experience where I can implement my technical skillset so I can continue to grow and have an impact.
 
 Check out my website for more: vicvalentine.com
 
