@@ -8,7 +8,7 @@ Technology and programming are core tools I am learning to use on my path. I aim
 
 While I'll continue to learn and teach myself, I am looking for professional experience where I can implement my technical skillset so I can continue to grow and have a big impact.
 
-Check out my website for more: vicvalentine.com
+<!--Check out my website for more: vicvalentine.com
 
 <!--
 **viccyp/viccyp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
