@@ -6,7 +6,7 @@ I am passionate about sustainability, equality, and creating a better world, and
 
 Technology and programming are core tools I am learning to use on my path. I aim to build real applications for businesses and clients, to solve real issues and streamline workflows. I am currently working on an application which tracks sustainability-related information for businesses.
 
-While I'll continue to learn and teach myself, I am looking for professional experience where I can implement my technical skillset so I can continue to grow and have a big impact.
+I am looking for professional experience where I can implement my technical skillset so I can continue to grow and have a big impact.
 
 <!--Check out my website for more: vicvalentine.com
 
