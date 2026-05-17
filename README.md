@@ -4,7 +4,7 @@ I am Victor, I am currently involved in an intensive bootcamp hosted by Northcod
 
 I am passionate about sustainability, equality, and creating a better world, and because of the system we live in, finance and investment is the main way to achieve that. That is, profit drives motivation, so we need ways to make profit in a sustainable way with positive externalities. I am always looking for ways to align myself with positive change in a realistic and meaningful way.
 
-Technology and programming are core tools I am learning to use on my path. I aim to build real applications for businesses and clients, to solve real issues. I am currently working on an application which tracks sustainability-related information for businesses.
+Technology and programming are core tools I am learning to use on my path. I aim to build real applications for businesses and clients, to solve real issues and streamline workflows. I am currently working on an application which tracks sustainability-related information for businesses.
 
 While I'll continue to learn and teach myself, I am looking for professional experience where I can implement my technical skillset so I can continue to grow and have a big impact.
 
