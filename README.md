@@ -4,9 +4,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/viccyp/viccyp/output/github-contribution-grid-snake.svg">
 </picture>
 
-## Hello!
-
-I am currently involved in an intensive bootcamp hosted by Northcoders, where I am getting a very thorough education in C#, .NET and the OOP and TDD principles that come with it.
+## Hello
 
 I am passionate about sustainability, equality, and creating a better world, and because of the system we live in, finance and investment is a key way to achieve that on a large scale. That is, profit drives motivation, so solutions must make profit in a sustainable way with positive externalities. I am always looking for ways to align myself with positive change in a realistic and meaningful way.
 
